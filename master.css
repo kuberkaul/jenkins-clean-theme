@@ -425,6 +425,11 @@ a[href*="/fingerprint"].task-icon-link {
     background-size: contain!important;
 }
 
+a[href*="/pview"].task-icon-link {
+    background: url(img/microscope.png) no-repeat!important;
+    background-size: contain!important;
+}
+
 a[href="/manage"].task-icon-link {
     background: url(img/manage.png) no-repeat!important;
     background-size: contain!important;
